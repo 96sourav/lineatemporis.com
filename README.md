@@ -1,2 +1,3 @@
 # lineatemporis.com
-this is official llp website
+
+Official website for Lineatemporis Tech LLP. Static "coming soon" landing page.
